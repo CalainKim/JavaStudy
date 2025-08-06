@@ -4,7 +4,7 @@ public class StudentClass {
     public static void main(String[] args) {
         StudentInfor student1 = new StudentInfor();
         student1.name = "도은";
-        student1.age = 22;
+        student1.age = 22; // ss
         student1.grade = 100;
 
 
