@@ -8,7 +8,7 @@ public class StudentClass {
         student1.grade = 100;
 
 
-        StudentInfor student2 = new StudentInfor();
+        StudentInfor student2 = new StudentInfor(); // github test
         student2.name = "은도";
         student2.age = 24;
         student2.grade = 90;
