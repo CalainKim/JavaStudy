@@ -1,4 +1,4 @@
-package Java_basic;
+package Section0;
 
 public class StudentClass {
     public static void main(String[] args) {

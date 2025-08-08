@@ -1,4 +1,4 @@
-package Method;
+package Section1;
 
 public class MethodOVerloading {
     public static void main(String[] args) {

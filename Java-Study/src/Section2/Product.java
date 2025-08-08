@@ -1,6 +1,6 @@
-package Java_basic;
+package Section2;
 
-public class ProductOrder {
+public class Product {
     String productName;
     int price;
     int quantity;
